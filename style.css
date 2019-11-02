@@ -1,0 +1,24 @@
+/* .navbar-brand,.nav-link{
+    color:white;
+} */
+
+/* .navbar-nav{
+    margin-left:5rem;
+}
+
+
+#navbarSupportedContent{
+    margin-left:50rem;
+} */
+
+
+.jumbotron{
+    background-color: white;
+}
+
+/* .card{
+    border: 0px
+} */
+.border{
+border: 1px solid rgba(0,0,0,.125);
+}
